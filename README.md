@@ -1,1 +1,0 @@
-# firea-adapt.github.io
