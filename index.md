@@ -2,6 +2,9 @@
 layout: single
 title: ""
 permalink: /
+header:
+  overlay_image: /assets/images/project-banner.jpg
+  overlay_filter: 0.4
 ---
 
 ## About the Project
