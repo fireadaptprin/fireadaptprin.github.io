@@ -6,3 +6,17 @@ plugins:
 minimal_mistakes_skin: "default"
 
 search: false
+
+# Navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Documents"
+    url: /documents/
+  - title: "Contact"
+    url: /contact/
+
