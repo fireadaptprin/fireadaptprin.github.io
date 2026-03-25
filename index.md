@@ -3,7 +3,7 @@ layout: single
 title: ""
 permalink: /
 header:
-  overlay_image: /assets/images/project-banner.jpg
+  overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.4
 ---
 
