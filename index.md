@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "FIRE-ADAPT"
+title: ""
+permalink: /
 ---
 
 ## About the Project
