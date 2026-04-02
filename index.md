@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Identify and transfer adaptation options for facing Mediterranean wildfires in a climate change context."
+title: "FIRE-ADAPT \n Identify and transfer adaptation options for facing Mediterranean wildfires in a climate change context."
 permalink: /
 header:
   overlay_image: /assets/images/banner.jpg
@@ -8,14 +8,12 @@ header:
 ---
 
 ## About the Project
-
-Short description of your research project.
+FIRE-ADAPT project was designed to address the increasing impact of wildfires in Italy and southern Europe in the context of climate change.
 
 ## Objectives
 
-- Objective 1
-- Objective 2
+- The project aims to improve fire danger and impact assessments, connect disaster risk reduction with climate adaptation and establish effective adaptation strategies. 
 
 ## Funding
 
-Funded by ...
+Funded by PRIN
