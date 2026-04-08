@@ -16,4 +16,4 @@ FIRE-ADAPT project was designed to address the increasing impact of wildfires in
 
 ## Funding
 
-Funded by PRIN
+Funded by PRIN 2022
