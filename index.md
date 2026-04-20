@@ -6,6 +6,14 @@ header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.4
 ---
+<div style="position: relative;">
+  <div style="position: absolute; top: -220px; left: 50%; transform: translateX(-50%);">
+    <img src="/assets/images/prin_header.png" 
+         style="max-width: 500px; width: 70%;" 
+         alt="Second Banner">
+  </div>
+</div>
+
 
 ## About the Project
 FIRE-ADAPT project was designed to address the increasing impact of wildfires in Italy and southern Europe in the context of climate change.
