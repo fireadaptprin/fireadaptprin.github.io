@@ -11,8 +11,7 @@ header:
 FIRE-ADAPT project was designed to address the increasing impact of wildfires in Italy and southern Europe in the context of climate change.
 
 ## Objectives
-
-- The project aims to improve fire danger and impact assessments, connect disaster risk reduction with climate adaptation and establish effective adaptation strategies. 
+The project aims to improve fire danger and impact assessments, connect disaster risk reduction with climate adaptation and establish effective adaptation strategies. 
 
 ---
 <div style="width: 100vw; margin-left: calc(50% - 50vw); margin-top: 2rem;">
