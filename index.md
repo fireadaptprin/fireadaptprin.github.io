@@ -24,7 +24,7 @@ FIRE-ADAPT project was designed to address the increasing impact of wildfires in
 
 ---
 <div style="width: 100vw; margin-left: calc(50% - 50vw); margin-top: 2rem;">
-  <img src="/assets/images/prin_headerr.png" 
+  <img src="/assets/images/prin_header.png" 
        style="width:100%; display:block;" 
        alt="PRIN banner logos">
 </div>
