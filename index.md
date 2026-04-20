@@ -19,5 +19,5 @@ Funded by Bando PRIN 2022 (D.D n. 104 del 2 febbraio 2022)
 
 ---
 <div style="margin-top: 2rem;">
-  <img src="/assets/images/prin_header.png" style="width:100%;" alt="PRN logo footer">
+  <img src="/assets/images/prin_header.png" style="width:100%;" alt="PRIN logo footer">
 </div>
