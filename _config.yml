@@ -7,3 +7,6 @@ minimal_mistakes_skin: "contrast" # "default"
 
 search: false
 
+atom_feed:
+  hide: true
+
