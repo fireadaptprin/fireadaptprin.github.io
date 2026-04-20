@@ -12,9 +12,9 @@ adaptation strategies.
 definition of effective adaptation pathways to reduce the impacts of fire events
 
 ## Specific Objectives
-- O1) To improve the assessment of current and future fire danger, behaviour, and impacts;
-- O2) To bridge disaster risk reduction (DRR) and adaptation to climate change (ACC);
-- O3) To identify and assess adaptation pathways enabling fire resilient landscapes for supporting
+- To improve the assessment of current and future fire danger, behaviour, and impacts;
+- To bridge disaster risk reduction (DRR) and adaptation to climate change (ACC);
+- To identify and assess adaptation pathways enabling fire resilient landscapes for supporting
 regions and local authorities in defining and developing adaptation pathways.
 
 ## Main Results
