@@ -22,12 +22,10 @@ FIRE-ADAPT project was designed to address the increasing impact of wildfires in
 
 - The project aims to improve fire danger and impact assessments, connect disaster risk reduction with climate adaptation and establish effective adaptation strategies. 
 
-## Funding
-
-Funded by Bando PRIN 2022 (D.D n. 104 del 2 febbraio 2022)
-
 ---
 <div style="margin-top: 2rem;">
   <img src="assets/images/prin_header.png" style="width:100%;" alt="Project Footer Banner">
 </div>
 
+--- 
+Funded by Bando PRIN 2022 (D.D n. 104 del 2 febbraio 2022)
