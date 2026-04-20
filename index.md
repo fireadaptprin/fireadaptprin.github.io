@@ -3,8 +3,9 @@ layout: single
 title: "FIRE-ADAPT \n Identify and transfer adaptation options for facing Mediterranean wildfires in a climate change context."
 permalink: /
 header:
-  overlay_image: /assets/images/prin_banner.png
+  overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.4
+  overlay_image_position: bottom
 ---
 
 ## About the Project
