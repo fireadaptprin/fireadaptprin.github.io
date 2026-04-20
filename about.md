@@ -4,11 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-## Research Units
-- Università degli Studi di Sassari (UNISS) Sassari PI: Prof. Costantino Sirca
-- Università degli Studi del Molise (UNIMOL) Campobasso PI: Prof. Vittorio Garfì
-- Consiglio Nazionale delle Ricerche Istituto per la BioEconomia (CNR-IBE) Sassari PI: Dr. Pierpaolo Duce
-
 ## Project Aims
 1. To propose integrated approaches to accelerate the implementation of systemic climate change
 adaptation strategies.
@@ -32,3 +27,8 @@ and context-specific climate risk assessment in the field of forest fire;</li>
 <li>to contribute to the strength of synergies and coherence among policy objectives and territorial
 governance.</li>
 </ol>
+
+## Research Units
+- Università degli Studi di Sassari (UNISS) Sassari PI: Prof. Costantino Sirca
+- Università degli Studi del Molise (UNIMOL) Campobasso PI: Prof. Vittorio Garfì
+- Consiglio Nazionale delle Ricerche Istituto per la BioEconomia (CNR-IBE) Sassari PI: Dr. Pierpaolo Duce
