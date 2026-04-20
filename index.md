@@ -3,7 +3,6 @@ layout: single
 title: "FIRE-ADAPT \n Identify and transfer adaptation options for facing Mediterranean wildfires in a climate change context."
 permalink: /
 header:
-  image: /assets/images/prin_header.png
   overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.4
 ---
