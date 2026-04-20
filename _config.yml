@@ -1,5 +1,7 @@
 title: "PRIN FIRE-ADAPT"
 logo: "/assets/images/logo.png"
+url: "https://fabriziopedes.github.io"
+baseurl: "/fire-adapt.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
