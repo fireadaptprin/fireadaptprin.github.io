@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "FIRE-ADAPT \n Identify and transfer adaptation options for facing Mediterranean wildfires in a climate change context."
 permalink: /
 header:
