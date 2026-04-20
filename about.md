@@ -5,13 +5,9 @@ permalink: /about/
 ---
 
 ## Research Units
-### RU-1 
-Università degli Studi di Sassari (UNISS) Sassari PI: Prof. Costantino Sirca
-### RU-2 
-Università degli Studi del Molise (UNIMOL) Campobasso PI: Prof. Vittorio Garfì
-### RU-3 
-Consiglio Nazionale delle Ricerche Istituto per la BioEconomia (CNR-IBE) Sassari PI: Dr. Pierpaolo Duce
-
+- Università degli Studi di Sassari (UNISS) Sassari PI: Prof. Costantino Sirca
+- Università degli Studi del Molise (UNIMOL) Campobasso PI: Prof. Vittorio Garfì
+- Consiglio Nazionale delle Ricerche Istituto per la BioEconomia (CNR-IBE) Sassari PI: Dr. Pierpaolo Duce
 
 ## Project Aims
 1. To propose integrated approaches to accelerate the implementation of systemic climate change
@@ -19,7 +15,7 @@ adaptation strategies.
 2. To provide the knowledge base and tools needed to assist policy-makers and decision-makers on the
 definition of effective adaptation pathways to reduce the impacts of fire events
 
-Specific Objectives
+## Specific Objectives
 - O1) To improve the assessment of current and future fire danger, behaviour, and impacts;
 - O2) To bridge disaster risk reduction (DRR) and adaptation to climate change (ACC);
 - O3) To identify and assess adaptation pathways enabling fire resilient landscapes for supporting
@@ -35,3 +31,4 @@ provide;</li>
 and context-specific climate risk assessment in the field of forest fire;</li>
 <li>to contribute to the strength of synergies and coherence among policy objectives and territorial
 governance.</li>
+</ol>
