@@ -17,8 +17,3 @@ The project aims to improve fire danger and impact assessments, connect disaster
 --- 
 
 Funded by Bando PRIN 2022 (D.D n. 104 del 2 febbraio 2022)
-
----
-<div style="margin-top: 2rem;">
-  <img src="assets/images/prin_banner.png" style="width:200%;" alt="PRIN logo footer">
-</div>
