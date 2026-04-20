@@ -1,12 +1,13 @@
 ---
 layout: single
 classes: wide
-title: "FIRE-ADAPT \n Identify and transfer adaptation options for facing Mediterranean wildfires in a climate change context."
+title: "FIRE-ADAPT"
 permalink: /
 header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.4
   overlay_image_position: bottom
+  caption: "Identify and transfer adaptation options for facing Mediterranean wildfires in a climate change context."
 ---
 
 ## About the Project
