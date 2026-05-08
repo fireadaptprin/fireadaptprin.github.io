@@ -5,5 +5,7 @@ main:
     url: /about/
   - title: "Documents"
     url: /documents/
+  - title: "Scientific Committee"
+    url: /commitee/
   - title: "Contacts"
     url: /contact/
