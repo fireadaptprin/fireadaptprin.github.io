@@ -4,7 +4,9 @@ title: "Contact"
 permalink: /contact/
 ---
 
-PI: prof. Costantino Sirca <cosirca@uniss.it>
+PI: 
+
+Prof. Costantino Sirca <cosirca@uniss.it>
 
 Dipartimento di Agraria
 
