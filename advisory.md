@@ -7,6 +7,6 @@ permalink: /advisory/
 
 ||||||
 |---------------------|----------------|----------------------------------------------|-------------------------|--------------------|
-| Marco Marchetti | Full professor | Università degli Studi di Roma "La Sapienza" | mailto:mma.marchetti@uniroma1.it| https://www.uniroma1.it|
-| Fiorucci Paolo | Project leader | CIMA Research Foundation | mailto:paolo.fiorucci@cimafoundation.org | https://www.cimafoundation.org | 
-| Regos-Sanz, Adrián | Researcher | CSIC - Misión Biológica de Galicia (MBG) | mailto:aregos@mbg.csic.es | https://mbg.csic.es |
+| Marco Marchetti | Full professor | Università degli Studi di Roma "La Sapienza" | <mma.marchetti@uniroma1.it>| <www.uniroma1.it>
+| Fiorucci Paolo | Project leader | CIMA Research Foundation | <paolo.fiorucci@cimafoundation.org> | <www.cimafoundation.org> | 
+| Regos-Sanz, Adrián | Researcher | CSIC - Misión Biológica de Galicia (MBG) | <aregos@mbg.csic.es> | <mbg.csic.es> |
