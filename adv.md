@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Advisory Board"
 permalink: /adv/
 ---
