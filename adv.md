@@ -3,7 +3,7 @@ layout: single
 title: "Advisory Board"
 permalink: /adv/
 ---
-Advisory Board        |                                                               |                                   |                              |
+
 ----------------------|---------------------------------------------------------------|-----------------------------------|------------------------------|
 | Marco Marchetti     | Full professor | Università degli Studi di Roma "La Sapienza" | ma.marchetti@uniroma1.it          | uniroma1.it                  |
 | Fiorucci Paolo      | Project leader | CIMA Research Foundation                     | paolo.fiorucci@cimafoundation.org |http://www.cimafoundation.org | 
