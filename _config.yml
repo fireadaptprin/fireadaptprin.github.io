@@ -8,7 +8,7 @@ plugins:
 
 minimal_mistakes_skin: "contrast" # "default"
 
-search: false
+search: true
 
 atom_feed:
   hide: true
