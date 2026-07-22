@@ -5,7 +5,7 @@ title: "Advisory Board"
 permalink: /advisory/
 ---
 
-| Full name | |
+| | |
 |-|-|
 | **Marco Marchetti** | Full Professor (Chair of Forest Management and Conservation) at the University of Molise. Head of the Laboratory of Forest Ecology and Geomatics |
 | **Paolo Fiorucci** | Project leader at CIMA Research Foundation |
